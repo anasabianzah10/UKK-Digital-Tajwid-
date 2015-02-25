@@ -1,0 +1,63 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:background="#ffffff"
+    tools:context="anas.app.digitaltajwid.IdghammimiActivity">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:scrollbars="vertical"
+        android:id="@+id/scrollView2">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="@string/desc_idghammimi"
+        android:id="@+id/textView45"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/idghgammimi1_eg"
+            android:layout_marginTop="16dp"
+            android:id="@+id/imageView32" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="25dp"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Contoh ayat :"
+            android:id="@+id/textView46" />
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/idghammimi_eg"
+            android:id="@+id/imageView33" />
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="#1E824C"
+            android:textColor="#ffffff"
+            android:layout_marginTop="15dp"
+            android:text="Play Audio"
+            android:id="@+id/playidghammimi" />
+
+    </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

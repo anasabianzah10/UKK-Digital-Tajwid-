@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="anas.app.digitaltajwid" >
+
+    <supports-screens
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:resizeable="true"
+        android:smallScreens="true"
+        android:xlargeScreens="true" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo_utama"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".SpalshActivity"
+            android:label="@string/title_activity_spalsh" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".HomeActivity"
+            android:label="@string/title_activity_home" >
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".TanwinActivity"
+            android:label="@string/title_activity_tanwin" >
+        </activity>
+        <activity
+            android:name=".QalqalahActivity"
+            android:label="@string/title_activity_qalqalah" >
+        </activity>
+        <activity
+            android:name=".MimsukunActivity"
+            android:label="@string/title_activity_mimsukun" >
+        </activity>
+        <activity
+            android:name=".RaActivity"
+            android:label="@string/title_activity_ra" >
+        </activity>
+        <activity
+            android:name=".MadActivity"
+            android:label="@string/title_activity_mad" >
+        </activity>
+        <activity
+            android:name=".LamActivity"
+            android:label="@string/title_activity_lam" >
+        </activity>
+        <activity
+            android:name=".IdzharhalqiActivity"
+            android:label="@string/title_activity_idzharhalqi" >
+        </activity>
+        <activity
+            android:name=".IdgmbigunahActivity"
+            android:label="@string/title_activity_idgmbigunah" >
+        </activity>
+        <activity
+            android:name=".IdghambillagunnahActivity"
+            android:label="@string/title_activity_idghambillagunnah" >
+        </activity>
+        <activity
+            android:name=".IqlabActivity"
+            android:label="@string/title_activity_iqlab" >
+        </activity>
+        <activity
+            android:name=".IkhfaActivity"
+            android:label="@string/title_activity_ikhfa" >
+        </activity>
+        <activity
+            android:name=".MjmunfasilActivity"
+            android:label="@string/title_activity_mjmunfasil" >
+        </activity>
+        <activity
+            android:name=".MwmuttashilActivity"
+            android:label="@string/title_activity_mwmuttashil" >
+        </activity>
+        <activity
+            android:name=".MalissukunActivity"
+            android:label="@string/title_activity_malissukun" >
+        </activity>
+        <activity
+            android:name=".MadlinActivity"
+            android:label="@string/title_activity_madlin" >
+        </activity>
+        <activity
+            android:name=".MadlazimActivty"
+            android:label="@string/title_activity_madlazim_activty" >
+        </activity>
+        <activity
+            android:name=".MadbadalActivity"
+            android:label="@string/title_activity_madbadal" >
+        </activity>
+        <activity
+            android:name=".Kuis1Activity"
+            android:label="@string/title_activity_kuis1" >
+        </activity>
+        <activity
+            android:name=".Kuis2Activity"
+            android:label="@string/title_activity_kuis2" >
+        </activity>
+        <activity
+            android:name=".Kuis3Activity"
+            android:label="@string/title_activity_kuis3" >
+        </activity>
+        <activity
+            android:name=".Kuis4Activity"
+            android:label="@string/title_activity_kuis4" >
+        </activity>
+        <activity
+            android:name=".Kuis5Activity"
+            android:label="@string/title_activity_kuis5" >
+        </activity>
+        <activity
+            android:name=".HasilActivity"
+            android:label="@string/title_activity_hasil" >
+        </activity>
+        <activity
+            android:name=".VideoPlayerActivity"
+            android:configChanges="orientation"
+            android:label="@string/title_activity_video_player" >
+        </activity>
+        <activity
+            android:name=".IkhfasyafawiActivity"
+            android:label="@string/title_activity_ikhfasyafawi" >
+        </activity>
+        <activity
+            android:name=".TasydidActivity"
+            android:label="@string/title_activity_tasydid" >
+        </activity>
+        <activity
+            android:name=".QalqalahsActivity"
+            android:label="@string/title_activity_qalqalahs" >
+        </activity>
+        <activity
+            android:name=".QalqalahkActivity"
+            android:label="@string/title_activity_qalqalahk" >
+        </activity>
+        <activity
+            android:name=".LamsyamActivity"
+            android:label="@string/title_activity_lamsyam" >
+        </activity>
+        <activity
+            android:name=".LamqamarActivity"
+            android:label="@string/title_activity_lamqamar" >
+        </activity>
+        <activity
+            android:name=".IdghammimiActivity"
+            android:label="@string/title_activity_idghammimi" >
+        </activity>
+        <activity
+            android:name=".VideoalifActivity"
+            android:label="@string/title_activity_videoalif" >
+        </activity>
+        <activity
+            android:name=".MakhrajActivity"
+            android:label="@string/title_activity_makhraj" >
+        </activity>
+        <activity
+            android:name=".VideobaActivity"
+            android:label="@string/title_activity_videoba" >
+        </activity>
+        <activity
+            android:name=".VideotaActivity"
+            android:label="@string/title_activity_videota" >
+        </activity>
+    </application>
+
+</manifest>

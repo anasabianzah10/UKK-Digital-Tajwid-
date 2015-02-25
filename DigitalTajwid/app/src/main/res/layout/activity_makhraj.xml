@@ -1,0 +1,64 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:background="#ffffff"
+    tools:context="anas.app.digitaltajwid.MakhrajActivity">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scrollbars="vertical"
+        >
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        >
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/makhraj_header"
+            android:id="@+id/imageView38" />
+
+        <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Alif"
+        android:id="@+id/alif"
+        android:background="#1E824C"
+        android:textColor="#ffffff"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Ba"
+        android:layout_marginTop="15dp"
+        android:id="@+id/ba"
+        android:background="#1E824C"
+        android:textColor="#ffffff"
+        android:layout_below="@+id/alif"
+        android:layout_alignLeft="@+id/alif"
+        android:layout_alignStart="@+id/alif" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:text="Ta"
+        android:id="@+id/ta"
+        android:layout_below="@+id/ba"
+        android:background="#1E824C"
+        android:textColor="#ffffff"
+        android:layout_centerHorizontal="true" />
+
+    </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

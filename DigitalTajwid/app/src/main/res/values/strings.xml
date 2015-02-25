@@ -1,0 +1,195 @@
+<resources>
+    <string name="app_name">Digital Tajwid</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_spalsh">Digital Tajwid</string>
+    <string name="title_activity_tanwin">Hukum Tanwin</string>
+    <string name="title_activity_qalqalah">Hukum Qalqalah</string>
+    <string name="title_activity_mimsukun">Hukum Mim Sukun</string>
+    <string name="title_activity_ra">Tanda Waqaf</string>
+    <string name="title_activity_mad">Hukum Mad</string>
+    <string name="title_activity_lam">Hukum Lam</string>
+    <string name="title_activity_idzharhalqi">Deskripsi Idzhar Halqi</string>
+    <string name="desc_idzharhalqi">
+        Izhar artinya jelas atau terang. Dinamakan Izhar Halqi karena makhraj dari huruf-hurufnya keluar dari kerongkongan (halq).
+        Hukum Izhar Halqi berlaku apabila Nun Sukun ( نْ ) atau  tanwin ( ــًــ, ــٍــ, ــٌــ ) bertemu dengan huruf Alif, ‘Ain, Ghain, Ha, Kha, Ha’ (  ا – ع – غ – ح – خ – ﮬ )  dan Hamzah  ( ء ) , namun نْ  atau   ــًــ, ــٍــ, ــٌــ  jarang bertemu dengan huruf Hamzah ( ء ), akan tetapi huruf Hamzah tetap salah satu huruf Izhar Halqi.
+
+Cara membaca Izhar Halqi  harus  jelas/terang, dan tidak berdengung.
+    </string>
+    <string name="desc_idgmbigunnah">
+        Hukum Idgham Bighunnah atau sering disebut Idgham Ma’al Ghunnah adalah hukum tajwid yang berlaku apabila Nun Sukun ( نْ ) atau  tanwin ( ــًــ, ــٍــ, ــٌــ ) bertemu dengan huruf Mim, Nun, Waw, Ya ( ي ـ و ـ ن ـ م ), secara terpisah atau tidak dalam satu kata/kalimat. Maksud dari kata “terpisah” di sini akan dibahas di bagian bawah.
+
+        Cara membaca Idgham Bighunnah adalah dengan meleburkan نْ atau  ــًــ, ــٍــ, ــٌــ  menjadi suara huruf di depannya ي ـ و ـ ن ـ م, atau keempat huruf tersebut seolah diberi tanda tasydid, diiring dengan menggunakan suara dengung sekitar 2 harakat.
+    </string>
+    <string name="desc_idgmbilagunnah">
+        Hukum Idgham Bilaghunnah adalah hukum tajwid yang berlaku apabila Nun Sukun ( نْ ) atau  tanwin ( ــًــ, ــٍــ, ــٌــ ) bertemu dengan huruf lam ( ل ) atau Ro ( ر ), tanpa menggunakan suara dengung.
+        Cara membacanya adalah dengan meleburkan نْ atau  ــًــ, ــٍــ, ــٌــ menjadi suara huruf ل atau ر, atau lafaz kedua huruf tersebut seolah diberi tanda tasydid,  tanpa dikuti suara dengung (ghunnah).
+    </string>
+    <string name="desc_iqlab">
+        Iqlab adalah salah satu hukum tajwid yang berlaku apabila huruf Nun Sukun ( نْ ) atau  tanwin ( ــًــ, ــٍــ, ــٌــ ) bertemu dengan huruf Ba ( ب ) . Menurut bahasa, Iqlab artinya mengubah atau menggantikan sesuatu dari bentuknya.
+
+        Cara membacanya adalah dengan menggantikan huruf  نْ atau  ــًــ, ــٍــ, ــٌــ menjadi suara huruf  mim sukun  (  مْ ) sehingga pada saat akan bertemu dengan huruf ب bibir atas dan bawah dalam posisi tertutup, diiringi dengan suara dengung sekitar 2 harakat.
+
+        Hukum Iqlab di dalam Al-Quran, sudah ditandai dengan huruf mim kecil ( م )  – dan diletakkan di atas – antara نْ atau  ــًــ, ــٍــ, ــٌــ  dengan huruf ب .    </string>
+    <string name="desc_ikhfa">
+        Ikhfa’ secara harfiah berarti menyamarkan atau menyembunyikan.
+
+Di dalam ilmu tajwid, Ikhfa adalah menyamarkan huruf Nun Sukun ( نْ ) atau  tanwin ( ــًــ, ــٍــ, ــٌــ ) ke dalam huruf sesudahnya – ada 15 huruf – yaitu:  ت – ث – د – ذ – ز – س – ش – ص – ض – ط – ظ – ف – ق – ك. Ke-15 huruf tersebut tidak bertasydid dan harus dibaca dengung (ghunnah).
+
+Cara membacanya adalah dengan mengeluarkan suara نْ atau  ــًــ, ــٍــ, ــٌــ  dari rongga hidung sehingga terlihat samar atau menjadi suara “N” atau “NG” , kemudian disambut dengan dengung sekitar 1 ~ 1,5 Alif atau 2 ~ 3 ketukan, setelah itu baru masuk ke huruf sesudahnya.
+    </string>
+    <string name="desc_mjmunfasil">
+        Mad Jaiz Munfashil berlaku apabila huruf Mad Thobi’i  ( ــــــَــــــ ا ; يْ ـــــــِــــــ ; وْ ـــــــُـــــــ ) bertemu dengan huruf Alif berharakat Fat-ha, Kasrah, atau Dhummah ( اَ – اِ – اُ )
+
+        Cara membacanya boleh panjang 2 harakat, 4 harakat, atau 6 harakat.
+
+    </string>
+    <string name="desc_mwmutasil">
+        Hukum Mad Wajib Muttashil adalah hukum tajwid yang berlaku apabila huruf Mad Thobi’i  ( ــــــَــــــ ا ; يْ ـــــــِــــــ ; وْ ـــــــُـــــــ ) bertemu dengan huruf Hamzah berharakat Fat-ha / Fathatain, Kasrah / Kasrahtain, atau Dhummah / Dhummahtain ( ءَ /  ءً – ءِ / ءٍ – ءُ / ءٌ ).  Kuncinya adalah Huruf Mad Thobi’i dan Hamzah dalam keadaan bersambung atau dalam satu kata .
+
+Panjang bacaan Hukum Mad Wajib Muttashil  adalah harus 6 harakat (tidak dapat ditawar).
+    </string>
+    <string name="desc_madlissukun">
+        Hukum Mad Arid Lissukun berlaku apabila huruf Mad Thobi’i  ( ــــــَــــــ ا ; يْ ـــــــِــــــ ; وْ ـــــــُـــــــ ) bertemu dengan huruf (hidup) berbaris Fatha, Fathatain, Kasra, Kasratain, Dhummah dan Dhummathain (   ــــــَـــــــــِــــــــُـــــــــــــًــــــــــــٍـــــــــــٌـــــ ) yang berada di dalam satu kata/kalimat.
+
+Panjang bacaan Mad Arid Lissukun boleh 2, 4, atau 6 harakat.
+
+Cara membacanya yaitu dipanjangkan terlebih dahulu huruf Mad Thobi’i , kemudian huruf yang terakhir mengunci bacaan (dimatikan) atau jangan didengungkan.
+    </string>
+    <string name="desc_madlin">
+        Hukum Mad Lin berlaku apabila huruf berbaris Fatha ( ــــــــــــــــــَــــــــــــ  ) bertemu dengan huruf Waw Sukun (  وْ  ) dan Ya Sukun (  يْ  ) .
+
+Cara membacanya adalah dengan membaca huruf berbaris Fatha terlebih dahulu, lalu langsung disambung dengan Waw sukun atau Ya sukun (dibaca panjang), setelah itu dikunci dengan huruf sesudahnya.
+
+Panjang bacaan Mad Lin boleh 2 harakat, 4 harakat, atau 6 harakat (pilih salah satu), sebagaimana sudah dijelaskan di dalam pengertian hukum Mad, bahwa panjang bacaan harus konsisten (rata, tetap, dan teratur).
+    </string>
+    <string name="desc_madlazim">
+        Hukum Mad Lazim Kilmi Mutsaqqal berlaku apabila huruf Mad Thobi’i ( ــــــَــــــ ا ; يْ ـــــــِــــــ ; وْ ـــــــُـــــــ ) bertemu dengan huruf bertasydid  ( ــــــــــــّــــــــ   ).
+        Panjang bacaan Mad Lazim Kilmi Mutsaqqal adalah wajib 6 harakat (tidak dapat ditawar), sama seperti hukum Mad Wajib Muttashil. Kedua hukum ini memiliki tanda (simbol) garis lengkung tebal seperti gambar pedang.
+
+Tanda “Pedang” di dalam Mad Lazim Kilmi Mutsaqqal  diletakkan di atas – antara Huruf Mad Thobi’i dan berhuruf bertasydid.
+
+Cara membacanya – terlebih dahulu memanjangkan huruf Mad Thobi’i sekitar 6 harakat, kemudian masuk ke huruf bertasydid.
+    </string>
+    <string name="desc_madbadal">
+        Badal artinya ganti
+Makna “ganti” disini  merujuk pada rumusan tajwid mushaf Timur Tengah.
+.
+Mad Badal adalah perpanjangan suara pada huruf Hamzah, sebagai pengganti huruf Hamzah yang dihilangkan, yaitu :
+
+Panjang bacaan huruf Hamzah berbaris Fatha apabila bertemu dengan Hamzah Sukun ( ءَا ) asal mulanya  ءَأ ;
+Panjang bacaan huruf Hamzah berbaris Kasroh apabila bertemu dengan huruf Ya Sukun ( إِي )  asal mulanya  إِئ ;
+Panjang bacaan huruf Hamzah berbaris Dhummah apabila bertemu dengan huruf Waw Sukun ( أُو )  asal mulanya أُؤ
+    </string>
+    <string name="desc_ikhfas">
+        Ikhfa Syafawi adalah hukum tajwid yang berlaku apabila huruf Mim Sukun ( مْ ) bertemu dengan huruf Ba ( ب ) .
+
+Ikhfa’ artinya menyamarkan atau menyembunyikan
+Syafawi artinya bibir
+Dinamakan Ikhfa Syafawi karena makhraj dari huruf Mim dan Ba merupakan pertemuan antara bibir atas dan bibir bawah.
+        Cara membaca Ikhfa Syafawi adalah dengan membaca terlebih dahulu HURUF SEBELUM MIM SUKUN, kemudian masuk ke huruf Mim Sukun dengan mengeluarkan irama dengung ikhfa Syafawi (menahan huruf mim samar-samar); “immng.. / ummmng.. / ammmng… ” sehingga pada saat akan bertemu dengan huruf ب bibir atas dan bawah dalam posisi tertutup.
+    </string>
+    <string name="desc_tasydid">
+        Tasydid adalah tanda baca (harakat) berbentuk kepala dari huruf sin ( س ) atau mirip seperti huruf w. Tasydid adalah simbol penekanan pada suatu konsonan ganda, atau sebuah tanda baca yang terjadi karena pertemuan (pengulangan) dari sebuah huruf yang sama.
+
+Panjang bacaan untuk huruf bertasydid umumnya adalah 1 alif atau sekitar 2 harakat.
+
+        Surah AL-Lahab : pada Ayat 1 di ujung ayat – huruf Ba bertasydid ( بَّ ) dan pada ayat 2 tidak memakai tasydid ( بَ ).
+    </string>
+    <string name="desc_qalqalah">
+        Menurut bahasa, qalqalah artinya getaran suara, atau pantulan. Dalam kaidah ilmu tajwid, Qalqalah berarti membaca dengan cara memantulkan huruf-huruf tertentu yang terdapat tanda baca sukun atau tanda waqaf (berhenti).
+Huruf qalqalah adalah qaf ( ق  ), tha’ ( ط ), ba’ ( ب ) jim ( ج  ) dal ( د).
+
+
+Apabila huruf-huruf tersebut bertanda baca sukun atau berhenti karena ada tanda waqaf, maka dibaca qalqalah.
+    </string>
+    <string name="desc_qsughra">
+        Qalqalah sugra disebut juga qalqalah kecil, yaitu bunyi huruf Qalqalah yang cara membacanya dengan pantulan yang kecil atau tidak keras. Qalqalah sugra disebabkan karena huruf qalqalah berharakat sukun dan berada di tengah kalimat.
+
+Perhatikan contoh berikut!
+Huruf qaf  (ق) contohnya  إِقْتَرَبَ
+Huruf tha’ (ط) contohnya  أَطْعَمَهُمْ
+Huruf ba’  (ب) contohnya  اَبْصَارِهِمِ
+Huruf jim  (ج) contohnya  نَجْعَلُ
+Huruf dal  (د) contohnya  اَدْبَارَهُمْ
+
+
+Huruf Qalqalah yang mati asli (bersukun), dibacanya terang dan memantul
+·   Bunyi pantulannya kecil
+·   Di tengah ayat
+·   Contoh:  لَمْ يَلِدْ وَلَمْ يُوْلَدْ ( يَلِدْ )
+    </string>
+    <string name="desc_qkubra">
+        Qalqalah kubra atau qalqalah besar ialah bunyi huruf Qalqalah yang cara membacanya dengan pantulan yang keras. Qalqalah sugra disebabkan karena huruf qalqalah berharakat sukun atau terdapat tanda waqaf yang harus dihentikan atau diwaqafkan.
+
+Perhatikan contoh berikut!
+Huruf qaf  (ق) contohnya  مِنْ عَلَقٍ
+Huruf tha’ (ط) contohnya  مِنْ وَرَآئِهِمْ مُحِيْطٌ
+Huruf ba’  (ب) contohnya   أُوْلُوْا اْلأَلْبَابِ
+Huruf jim  (ج) contohnya  ذَاتِ الْبُرُوْجِ
+Huruf dal  (د) contohnya  ذَاتِ الْوَقُوْدِ
+
+·   Huruf Qalqalah yang mati tidak asli, tetapi karena diwaqofkan (berhenti),
+   dibacanya terang dan memantul
+·   Bunyi pantulannya besar
+·   Di akhir ayat
+·   Contoh:  قُلْ هُوَ اللهُ اَحَدٌ ( د )
+    </string>
+    <string name="desc_lamsyam">
+        Alif lam syamsiyah adalah alif lam (ال) yang dirangkai dengan salah satu huruf syamsiyah, yakni 14 huruf dari huruf Hijaiyah. Huruf syamsiyah itu adalah:
+        ت ث د ذ ر ز س ش ص ض ط ظ ل ن
+        dan dibacanya lebur/idghom
+    </string>
+    <string name="desc_lamqam">
+        Alif Lam Qamariyah disebut juga Izhar Qamariyah, izhar artinya jelas, qamariyah artinya bulan. Alif Lam Qamariyah harus dibaca jelas dan terang. Alif  Lam yang dirangkaikan dengan salah satu huruf Qamariyah maka Alif Lam harus dibaca jelas.
+Huruf Qamariyah ada 15 yaitu:
+ا  ب  ج  ح  خ  ع  غ  ف  ق  ك  م  و  ه  ء  ي
+    </string>
+    <string name="desc_idghammimi">
+        Idgham Mitslain atau sering disebut dengan Idgham Mimi adalah hukum tajwid yang berlaku untuk huruf Mim Sukun ( مْ ) bertemu dengan huruf Mim Berharakat ( مَ , مِ , مُ ) . Dinamakan Mitslain karena terjadinya pertemuan dua huruf yang makhraj dan sifatnya sama persis (identik), tapi “dikhususkan” hanya untuk huruf Mim Sukun bertemu Mim Berharakat.  Selain dari huruf Mim tersebut, maka yang berlaku untuk pertemuan 2 huruf yang sama (Sukun dan Berharakat) adalah Hukum Idgham Mutamasilain dan Hukum Mad Tamkin.
+
+Dinamakan Idgham karena cara membacanya adalah dengan meleburkan satu huruf ke dalam huruf setelahnya, atau bahasa lainnya di-tasydid-kan.
+
+Hukum Idgham Mitslain dibaca dengung (suara huruf mim-nya terdengar mengalun dan jelas) sekitar 1 1/2 alif atau sekitar 2 – 3 harakat.
+    </string>
+    <string name="title_activity_idgmbigunah">Deskripsi Idgham Bigunnah</string>
+    <string name="title_activity_idghambillagunnah">Deskripsi Idgham Billagunnah</string>
+    <string name="title_activity_iqlab">Deskripsi Iqlab</string>
+    <string name="title_activity_ikhfa">Deskripsi Ikhfa</string>
+    <string name="title_activity_main2">Beranda</string>
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+    <string name="title_activity_mjmunfasil">Deskripsi Mad Jaiz Munfhasil</string>
+    <string name="title_activity_mwmuttashil">Deskripsi Mad Wajib Muttashil</string>
+    <string name="title_activity_malissukun">Deskripsi Mad Arid Lissukun</string>
+    <string name="title_activity_madlin">Deskripsi Mad Lin</string>
+    <string name="title_activity_madlazim_activty">Deskripsi Mad Lazim Kilmi Muttsaqal</string>
+    <string name="title_activity_madbadal">Deskripsi Mad Badal</string>
+    <string name="title_activity_home">Beranda</string>
+    <string name="title_activity_kuis1">Latihan Tajwid</string>
+    <string name="title_activity_kuis2">Latihan Tajwid</string>
+    <string name="title_activity_kuis3">Latihan Tajwid</string>
+    <string name="title_activity_kuis4">Latihan Tajwid</string>
+    <string name="title_activity_kuis5">Latihan Tajwid</string>
+    <string name="title_activity_hasil">Hasil</string>
+    <string name="title_activity_video_player">Makhraj Huruf</string>
+    <string name="title_activity_ikhfasyafawi">Deskripsi Ikhfa Syafawi</string>
+    <string name="title_activity_tasydid">Pengertian Tasydid</string>
+    <string name="title_activity_qalqalahs">Deskripsi Qalqalah Sughra</string>
+    <string name="title_activity_qalqalahk">Deskripsi Qalqalah Kubhra</string>
+    <string name="title_activity_lamsyam">Deskripsi Alif Lam Syamsiah</string>
+    <string name="title_activity_lamqamar">Deskripsi Lam Qamariyah</string>
+    <string name="title_activity_idghammimi">Deskripsi Idgham Mimi</string>
+    <string name="title_activity_videoalif">Makraj Huruf</string>
+    <string name="title_activity_makhraj">Makhraj Huruf</string>
+    <string name="title_activity_videoba">Makhraj Huruf</string>
+    <string name="title_activity_videota">Makhraj Huruf</string>
+</resources>
