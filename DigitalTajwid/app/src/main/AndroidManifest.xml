@@ -172,6 +172,114 @@
             android:name=".VideotaActivity"
             android:label="@string/title_activity_videota" >
         </activity>
+        <activity
+            android:name=".TsaActivity"
+            android:label="@string/title_activity_tsa" >
+        </activity>
+        <activity
+            android:name=".JimActivity"
+            android:label="@string/title_activity_jim" >
+        </activity>
+        <activity
+            android:name=".VideotsaActivity"
+            android:label="@string/title_activity_videotsa" >
+        </activity>
+        <activity
+            android:name=".VideojimActivity"
+            android:label="@string/title_activity_videojim" >
+        </activity>
+        <activity
+            android:name=".VideohaActivity"
+            android:label="@string/title_activity_videoha" >
+        </activity>
+        <activity
+            android:name=".VideokhoActivity"
+            android:label="@string/title_activity_videokho" >
+        </activity>
+        <activity
+            android:name=".VideodalActivity"
+            android:label="@string/title_activity_videodal" >
+        </activity>
+        <activity
+            android:name=".VideodzalActivity"
+            android:label="@string/title_activity_videodzal" >
+        </activity>
+        <activity
+            android:name=".VideoroActivity"
+            android:label="@string/title_activity_videoro" >
+        </activity>
+        <activity
+            android:name=".VideozaaActivity"
+            android:label="@string/title_activity_videozaa" >
+        </activity>
+        <activity
+            android:name=".VideosinActivity"
+            android:label="@string/title_activity_videosin" >
+        </activity>
+        <activity
+            android:name=".VideosyinActivity"
+            android:label="@string/title_activity_videosyin" >
+        </activity>
+        <activity
+            android:name=".VideoshodActivity"
+            android:label="@string/title_activity_videoshod" >
+        </activity>
+        <activity
+            android:name=".VideodhodActivity"
+            android:label="@string/title_activity_videodhod" >
+        </activity>
+        <activity
+            android:name=".VideothoActivity"
+            android:label="@string/title_activity_videotho" >
+        </activity>
+        <activity
+            android:name=".VideodhloActivity"
+            android:label="@string/title_activity_videodhlo" >
+        </activity>
+        <activity
+            android:name=".VideoainActivity"
+            android:label="@string/title_activity_videoain" >
+        </activity>
+        <activity
+            android:name=".VideoghoinActivity"
+            android:label="@string/title_activity_videoghoin" >
+        </activity>
+        <activity
+            android:name=".VideofaActivity"
+            android:label="@string/title_activity_videofa" >
+        </activity>
+        <activity
+            android:name=".VideoqofActivity"
+            android:label="@string/title_activity_videoqof" >
+        </activity>
+        <activity
+            android:name=".VideokafActivity"
+            android:label="@string/title_activity_videokaf" >
+        </activity>
+        <activity
+            android:name=".VideolamActivity"
+            android:label="@string/title_activity_videolam" >
+        </activity>
+        <activity
+            android:name=".VideomimActivity"
+            android:label="@string/title_activity_videomim" >
+        </activity>
+        <activity
+            android:name=".VideonunActivity"
+            android:label="@string/title_activity_videonun" >
+        </activity>
+        <activity
+            android:name=".VideowawuActivity"
+            android:label="@string/title_activity_videowawu" >
+        </activity>
+        <activity
+            android:name=".VideohamzahActivity"
+            android:label="@string/title_activity_videohamzah" >
+        </activity>
+        <activity
+            android:name=".VideoyaACtivity"
+            android:label="@string/title_activity_videoya_activity" >
+        </activity>
     </application>
 
 </manifest>

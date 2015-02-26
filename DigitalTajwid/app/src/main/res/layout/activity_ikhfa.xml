@@ -57,6 +57,22 @@
             android:background="#1E824C"
             android:textColor="#ffffff"
             android:id="@+id/playikhfa" />
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:src="@drawable/ikhfa2"
+            android:id="@+id/imageView39" />
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Play Audio"
+            android:background="#1E824C"
+            android:textColor="#ffffff"
+            android:id="@+id/playikhfa2" />
     </LinearLayout>
     </ScrollView>
 </RelativeLayout>

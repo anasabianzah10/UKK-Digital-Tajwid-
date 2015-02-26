@@ -14,12 +14,15 @@ public class IkhfaActivity extends ActionBarActivity implements View.OnClickList
 
     private MediaPlayer mediaPlayer;
 
-    private Button playikhfa;
+    private Button playikhfa, playikhfa2;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_ikhfa);
+
+        playikhfa2 = (Button)findViewById(R.id.playikhfa2);
+        playikhfa2.setOnClickListener(this);
 
         playikhfa = (Button)findViewById(R.id.playikhfa);
         playikhfa.setOnClickListener(this);
@@ -45,6 +48,8 @@ public class IkhfaActivity extends ActionBarActivity implements View.OnClickList
         }
         if (arg == 4){
             mediaPlayer = MediaPlayer.create(this, R.raw.ikhfa);
+        }else if(arg == 24){
+            mediaPlayer = MediaPlayer.create(this, R.raw.ikhfa2);
         }
         mediaPlayer.setLooping(false);
         mediaPlayer.start();
@@ -76,6 +81,9 @@ public class IkhfaActivity extends ActionBarActivity implements View.OnClickList
         switch (view.getId()){
             case R.id.playikhfa:
                 playSound(4);
+                break;
+            case R.id.playikhfa2:
+                playSound(24);
                 break;
             default:
                 break;
