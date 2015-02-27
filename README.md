@@ -30,12 +30,12 @@ PENGGUNA
 
 KREDIT
 ======
-Facebook 	: Anas Abi Anzah
-Twitter		: @anasabi_anzah
-Email		: anasabi.anzah@gmail.com / anasabianzah10@gmail.com
-Github		: anasabianzah10
+* Facebook 		: Anas Abi Anzah
+* Twitter		: @anasabi_anzah
+* Email			: anasabi.anzah@gmail.com / anasabianzah10@gmail.com
+* Github		: anasabianzah10
 
-Thanks to	: - www.ilmutajwid.com
-			  - www.dudung.net/quran-online/indonesia/1
-			  - www.androidhive.com
+Thanks to	: * www.ilmutajwid.com
+			  * www.dudung.net/quran-online/indonesia/1
+			  * www.androidhive.com
 
